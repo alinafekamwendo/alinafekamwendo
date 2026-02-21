@@ -1,19 +1,19 @@
-# Hi, I’m Alinafe C. Kamwendo 👋
+# Hi, I’m Alinafe C. Kamwendo 
 
  **Fullstack Software Developer|ICT Facilitator | Systems & Data Enthusiast**  
-📍 Lilongwe, Malawi  
-🌐 Portfolio: https://alinafeckamwendo.vercel.app/
+ Lilongwe, Malawi  
+ Portfolio: https://alinafeckamwendo.vercel.app/
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 I am a passionate Computer Scientist and educator with hands-on experience in **web systems development, Android applications, data analysis, and enterprise IT systems**. I have worked across education, government,research and community programs.
 
 I enjoy building secure, scalable systems and continuously improving my technical and professional skills.
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 - **Programming & Development:**  
   JavaScript, React, Next.js, Node.js, Express, Java
 
@@ -31,7 +31,7 @@ I enjoy building secure, scalable systems and continuously improving my technica
 
 ---
 
-## 👨‍🏫 Experience Highlights
+##  Experience Highlights
 - **Computer Science Tutor** – University of Malawi 
   Supporting first-year students in programming and problem-solving.
 
@@ -49,7 +49,7 @@ I enjoy building secure, scalable systems and continuously improving my technica
 
 ---
 
-## 🚀 What I’m Currently Focused On
+##  What I’m Currently Focused On
 - Full-stack web applications (Next.js, APIs, PostgreSQL)
 - Secure authentication & system design
 - Educational technology solutions
@@ -57,7 +57,7 @@ I enjoy building secure, scalable systems and continuously improving my technica
 
 ---
 
-## 📌 Featured Work
+##  Featured Work
 Check out my live projects on my portifolio
 They showcase:
 - Web APIs & backend systems  
@@ -66,7 +66,7 @@ They showcase:
 
 ---
 
-## 🤝 Let’s Connect
-- 🌐 Portfolio: https://alinafeckamwendo.vercel.app/
-- 📧 Email: alinafekamwendo11@gmail.com / kamwendoalina@gmail.com
+##  Let’s Connect
+-  Portfolio: https://alinafeckamwendo.vercel.app/
+- Email: alinafekamwendo11@gmail.com / kamwendoalina@gmail.com
   
