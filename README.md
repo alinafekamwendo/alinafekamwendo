@@ -15,7 +15,7 @@ I enjoy building secure, scalable systems and continuously improving my technica
 
 ##  Technical Skills
 - **Programming & Development:**  
-  JavaScript, React, Next.js, Node.js, Express, Java
+  JavaScript, React, Next.js,NestJs, Node.js, Express, Java
 
 - **Databases & Systems:**  
   PostgreSQL, MySQL, MongoDB, Prisma, Sequelize
